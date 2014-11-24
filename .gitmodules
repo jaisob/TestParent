@@ -1,0 +1,6 @@
+[submodule "Test2"]
+	path = Test2
+	url = https://github.com/jaisob/Test2.git
+[submodule "Test3"]
+	path = Test3
+	url = https://github.com/jaisob/Test3.git
